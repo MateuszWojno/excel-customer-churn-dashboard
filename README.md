@@ -29,9 +29,19 @@ The dataset contains customer demographics, account balances, product usage, and
 - 🔹 Designing an interactive dashboard with slicers and visuals
 
 ## 📈 Key Insights
-- 🚨 Higher churn observed among inactive customers  
-- 💰 Customers with low balances showed significantly higher churn risk  
-- 📦 Certain product groups exhibited elevated churn levels
+👥 Age Impact: Customers aged 45–54 exhibit the highest churn rate (47.81%), making this the most at-risk age segment.
+
+🔄 Engagement Matters: Inactive customers are nearly twice as likely to churn compared to active ones (26.85% vs. 14.27%).
+
+🧩 Product Overload Risk: Customers owning 4 products show extreme churn (100%), suggesting product fatigue or poor product fit.
+
+💰 Income Effect: Customers earning below $50K demonstrate significantly higher churn risk, identifying income as a strong churn driver.
+
+👩‍🦰 Gender Difference: Female customers churn more frequently than male customers (55.85% vs. 44.15%).
+
+💳 Card Usage: Customers without a credit card churn slightly more than cardholders (24.10% vs. 23.20%).
+
+📦 Product Count Trend: Churn increases with the number of products owned, peaking sharply at 4 products.
 
 ---
 
