@@ -45,4 +45,4 @@ The dataset contains customer demographics, account balances, product usage, and
 
 ## 🤝 Contact
 - 📧 Email: mateusz.wojno99@gmail.com  
-- 🌐 GitHub: [Tekst wyświetlany](https://www.example.com)
+- 🌐 GitHub: [github.com/MateuszWojno](github.com/MateuszWojno)
