@@ -80,4 +80,4 @@ Focus on quality over quantity in cross-selling strategies to avoid product fati
 ## 🤝 Contact
 - 📧 Email: mateusz.wojno99@gmail.com  
 - 🌐 GitHub: [github.com/MateuszWojno](https://github.com/MateuszWojno)
-- 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusz-wojno/)
+- <img width="512" height="512" alt="obraz" src="https://github.com/user-attachments/assets/35f2f55a-2d42-42cd-9d24-6d019c93a2a5" />](https://www.linkedin.com/in/mateusz-wojno/)
