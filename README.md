@@ -14,7 +14,7 @@ The goal of this project was to analyze customer churn in a banking dataset and 
 ## 📂 Data
 The dataset contains customer demographics, account balances, product usage, and activity metrics.
 
-- 🗂 **Dataset:** [Download Excel file](./Customer_Churn_Dashboard.xlsx)  
+- 🗂 **Dataset:** [Download Excel file](./Churn_Dashboard.xlsx)  
 *(Upewnij się, że plik jest w repozytorium)*
 
 ## 🖼 Preview Dashboard
