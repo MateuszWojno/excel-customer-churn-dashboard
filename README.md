@@ -44,7 +44,7 @@ The dataset contains customer demographics, account balances, product usage, and
 
 ---
 
-🧠 Business Recommendations
+## 🧠 Business Recommendations
 
 🎯 Target High-Risk Age Group (45–54)
 Develop tailored retention campaigns for customers aged 45–54, including personalized offers, loyalty programs, and proactive support.
