@@ -18,7 +18,7 @@ The dataset contains customer demographics, account balances, product usage, and
 *(Upewnij się, że plik jest w repozytorium)*
 
 ## 🖼 Preview Dashboard
-![Dashboard Screenshot](excel-customer-churn-dashboard/churn_screenshot.png
+![Dashboard Screenshot](churn_screenshot.png
 )  
 
 
