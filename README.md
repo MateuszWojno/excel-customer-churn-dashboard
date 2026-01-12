@@ -44,6 +44,31 @@ The dataset contains customer demographics, account balances, product usage, and
 
 ---
 
+🧠 Business Recommendations
+
+🎯 Target High-Risk Age Group (45–54)
+Develop tailored retention campaigns for customers aged 45–54, including personalized offers, loyalty programs, and proactive support.
+
+🔔 Re-Engage Inactive Customers
+Launch automated re-engagement workflows (email, app notifications, call campaigns) for inactive users, as inactivity nearly doubles churn risk.
+
+🧩 Optimize Product Bundling Strategy
+Investigate why customers with 4 products churn at 100%. Simplify bundles, introduce modular offerings, and conduct customer feedback analysis to improve product-market fit.
+
+💰 Support Lower-Income Customers
+Provide targeted financial products, fee reductions, and flexible plans for customers earning below $50K to improve long-term retention.
+
+👩‍💼 Address Gender Churn Gap
+Analyze product experience by gender and improve services or communications for female customers where friction points appear.
+
+💳 Increase Credit Card Adoption
+Encourage credit card enrollment with low-risk entry offers and benefits, as cardholders show slightly lower churn.
+
+📦 Implement Smart Cross-Selling
+Focus on quality over quantity in cross-selling strategies to avoid product fatigue while maximizing customer lifetime value.
+
+---
+
 ## 📌 How to Use
 1. Open the Excel file  
 2. Enable macros (if used)  
