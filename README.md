@@ -18,7 +18,8 @@ The dataset contains customer demographics, account balances, product usage, and
 *(Upewnij się, że plik jest w repozytorium)*
 
 ## 🖼 Preview Dashboard
-![Dashboard Screenshot](./screenshot_dashboard.png)  
+![Dashboard Screenshot](<img width="1852" height="693" alt="obraz" src="https://github.com/user-attachments/assets/067d03b2-486d-4ea2-8fce-5040bcc36cd3" />
+)  
 *(Dodaj tu swój screenshot dashboardu)*
 
 ## ⚙️ Process
